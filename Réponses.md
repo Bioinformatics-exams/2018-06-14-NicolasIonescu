@@ -47,4 +47,15 @@ La méthode Plon *et al.* classe les variants en 5 catégories en fonction de le
 ### Q3
 a) NM_001190274.1 est la notation HGVS du transcrit de référence du gène *FBXO11*.
 b) HGVS est le nom de la nomenclature proposée par l'Human Genome Variation Society (on l'appelle aussi Sequence Variant Nomenclature) pour classer et échanger des informations sur des variants aussi bien au niveau génomique, transcriptomique ou protéique. Il s'agit de la nomenclature de référence au niveau international.
-c) 
+c) GRCh37 signifie "Genome Reference Consortium Human Build 37", il s'agit simplement du nom de la séquence de référence du génome humain. GRCh37 était la 19ème version, on l'appelait donc également simplement hg19 (human genome 19) en vigueur jusqu'en Décembre 2013, suite à quoi la 20ème version lui fût substituée et pour uniformiser les notations GRCh et hg, on l'appela hg38.
+### Q4
+La technique utilisée pour explorer les deux patients 1 et 2 était le WES ou Whole Exome Sequencing. Il s'agit d'une technique de séquençage haut débit de l'exome d'une personne, c'est-à-dire uniquement les séquences codantes. Il implique une capture par hybridation spécifique, une purification de ces exons ou parties d’exons capturés et le séquençage haut-débit de ceux-ci. Son intérêt est qu'il est beaucoup moins cher qu'un séquençage du génome complet car l'exome représente une infime portion de ce dernier, alors que son intérêt clinique reste très élevé.
+### Q5
+Un séquençage de Sanger a été effectué à la fois chez les patients ainsi que chez leur parents afin de vérifier les deux éléments suivants :
+- Les patients présentent bien un variant sur le gène FBXO11 .
+- Leurs parents ne l'ont pas, confirmant ainsi le caractère *de novo* de ce variant chez les patients.
+### Q6
+Pour le patient 1, on a démontré que le variant, situé à l'extrémité distale de l'exon 3, occasionnait avec certitude un épissage aberrant aboutissant à la rétention de ce dernier (ce qui modifie de manière très importante la structure de la protéine.). De plus, ce variant a été confirmé comme étant délétère par l'intermédiaire d'une cohorte de 311 sujets ayant tous des déficits intellectuels non-expliqués, et aucun autre variant *de novo* ne répond de manière satisfaisante aux critères pour être retenu comme délétère. 
+Chez le patient 2, le variant situé dans l'exon 23 entraîne un décalage du cadre de lecture aboutissant à l'apparition d'un codon stop prématuré en position 913 dans la séquence peptidique, ce qui est en faveur de sa pathogénicité. Un autre variant a été identifié lors de cette étude sur l'exon 6 mais il est hérité de la mère et par conséquent certainement bénin. Il n'y a eu pour ce patient encore une fois aucun autre variant *de novo* répondant aux critères.
+### Q7
+Les variants rapportés dans cette études son extrêmement rares : un seul autre patient possédant à la fois une mutation délétère sur le gène FBXO11 et un tableau clinique de déficience intellectuelle est identifié, or cette mutation est la même que celle portée par le patient 2 de l'étude. Au total, on retrouve dans les publications neuf patients possédant une mutation *de novo* sur le gène FBXO11 accompagnée d'un tableau clinique moins sévère ou moins renseigné.
