@@ -35,7 +35,7 @@ Voici l'URL de la visualisation : http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg1
 ### Q12
 Le gène se trouve sur le bras anti-sens ("Strand: -" sur UCSC)
 ### Q13
-Le transcrit NM_004992.3 comporte 4 exons au total (donc 1 non-codant)
+Le transcrit NM_004992.3 comporte 4 exons au total (dont 1 non-codant)
 ### Q14
 Le variant se situe dans le 4ème et dernier exon.
 ## Exercice 2
