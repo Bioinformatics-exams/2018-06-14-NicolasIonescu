@@ -19,7 +19,7 @@ La notation protéique de ces variants est :
 - NM_004992.3:c.502C>T : NM_004992.3(MECP2_i001):p.(Arg168*)
 - NM_004992.3:c.1335G>A : NM_004992.3(MECP2_i001):p.(=)
 ### Q8
-- NM signifie mRNA (il s'agit d'un transcrit)
+- NM signifie mRNA (il s'agit donc d'un transcrit)
 - 004992 est le numéro de ce transcrit
 - 3 est sa version
 - *MECP2* est le nom du gène et i001 son numéro d'isoforme (peu utilisé)
